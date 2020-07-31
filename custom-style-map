@@ -1,0 +1,3 @@
+p[style-name='Section Title'] => h1:fresh
+p[style-name='Subsection Title'] => h2:fresh
+strong => b
